@@ -19,8 +19,8 @@
     "i18next": "^15.0.7",
     "i18next-browser-languagedetector": "^3.0.1",
     "i18next-localstorage-backend": "^2.1.2",
-    "libphonenumber-js": "^1.7.13",
-    "lint-staged": "^8.1.5",
+    "libphonenumber-js": "^1.12.8",
+    "lint-staged": "^16.0.0",
     "localforage": "^1.7.3",
     "localforage-getitems": "^1.4.2",
     "lottie-web": "^5.5.4",
@@ -33,15 +33,15 @@
     "react-file-download": "^0.3.5",
     "react-i18next": "^10.6.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.1",
     "recompose": "^0.30.0",
     "sw-precache-cra": "^1.0.0-alpha.2",
-    "universal-cookie": "^3.1.0",
+    "universal-cookie": "^8.0.1",
     "react-contenteditable": "^3.2.6",
     "opus-recorder": "^6.1.1",
     "recordrtc": "^5.5.7",
     "jsmediatags": "^3.8.1",
-    "sanitize-html": "^1.20.1"
+    "sanitize-html": "^2.12.1"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json,css}": [
@@ -61,8 +61,8 @@
     "sw-precache-cra-list-config": "sw-precache-cra --list-config"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "webpack-bundle-analyzer": "^3.3.2"
+    "gh-pages": "^5.0.0",
+    "webpack-bundle-analyzer": "^4.10.2"
   },
   "browserslist": [
     ">0.2%",
